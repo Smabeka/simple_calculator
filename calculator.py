@@ -1,3 +1,4 @@
+# Modify calculator.py to add docstrings to all functions (including the changes from Issue 1)
 def add(a, b):
     """Add two numbers and return their sum.
 
@@ -52,5 +53,6 @@ def divide(a, b):
     return a / b
 
 Modify calculator.py to add docstrings to all functions (including the changes from Issue 1):
+
 
 
